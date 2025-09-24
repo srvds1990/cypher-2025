@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+chromadb
+openai
+tiktoken
+plotly
+scikit-learn
+python-dotenv
+nltk
